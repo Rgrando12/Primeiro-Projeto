@@ -2,5 +2,6 @@
 ## Desenvolvido por 
 ## Estudante Roberta  :blossom::sparkles:
 ** áreas e afins**
-## Biologia
-## Educação Fisíca 
+## Biologia :pill::microscope:
+## Educação Fisíca :tennis::soccer:
+## Música :headphones::musical_score:
